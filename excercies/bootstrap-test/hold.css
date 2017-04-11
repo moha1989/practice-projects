@@ -1,0 +1,13 @@
+:root {
+    --main-color: ;
+    --main-font: ;
+
+}
+
+h1.jumbo-header {
+    color: var(--main-color);
+}
+
+p, a, span {
+   color: var(--main-color); 
+}
